@@ -2,7 +2,7 @@
 
 # Detect IP addresses with multiple failed SSH login attempts
 
-LOG_FILE="/var/log/auth.log"
+LOG_FILE="./sample_auth.log"
 THRESHOLD=5
 
 echo "Detecting IPs with more than $THRESHOLD failed login attempts..."

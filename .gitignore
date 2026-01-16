@@ -1,0 +1,4 @@
+# Ignore test log files
+log-analysis/auth.log
+log-analysis/sample_auth.log
+
